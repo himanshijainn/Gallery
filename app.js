@@ -22,4 +22,4 @@ function galleryspin() {
       }
       
       setIntervalWithDelay(galleryspin, 1000);    
-    
+      
